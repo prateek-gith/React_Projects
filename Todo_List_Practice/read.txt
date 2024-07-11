@@ -1,0 +1,16 @@
+step 1 : npm create vite@latest my-project -- --template react
+step 2 : cd my-project
+step 3 : npm install -D tailwindcss postcss autoprefixer
+step 4 : npx tailwindcss init -p
+
+step 5 : Read Documentation  
+            https://tailwindcss.com/docs/guides/vite
+
+
+
+            npm install uuid
+
+for react Icons 
+                    in terminal ==> npm install react-icons --save
+                    use Documentation
+                                        https://react-icons.github.io/react-icons/
